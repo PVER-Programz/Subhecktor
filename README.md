@@ -1,6 +1,6 @@
 # Subhecktor
 
-Download and open `open.bat` to run the App
+Open `open.bat` to run the App
 
 Commands:
 use `ava <image url here>` command for changing avatar, 
