@@ -1,6 +1,6 @@
 # Subhecktor
 
-Open `open.bat` to run the App
+Open `ProjectPoseidon.exe` in one of the folders to run the App
 
 Commands:
 use `ava <image url here>` command for changing avatar, 
