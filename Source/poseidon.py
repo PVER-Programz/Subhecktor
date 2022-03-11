@@ -1,3 +1,5 @@
+# NOTE: .json has been altered doesnt work... use real json
+
 print("WELCOME User !!")
 print("Thanks for using Hecktor - Source")
 print("© PVER Programz LLC\n\n")
